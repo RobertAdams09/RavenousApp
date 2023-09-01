@@ -1,0 +1,36 @@
+html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 18px;
+  width: 100%;
+}
+
+:root {
+  --main-font-type: 'Oxygen', sans-serif;
+}
+
+body {
+  font-family: var(--main-font-type);
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  line-height: 1.1;
+  text-align: center;
+  align-items: center;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.App h1 {
+  background-color: #F5B82E;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 900;
+  margin: 0;
+  padding: 15px 0;
+}
