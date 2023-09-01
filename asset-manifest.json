@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RavenousApp/static/css/main.f636a67a.css",
+    "main.js": "/RavenousApp/static/js/main.d16f3280.js",
+    "index.html": "/RavenousApp/index.html",
+    "main.f636a67a.css.map": "/RavenousApp/static/css/main.f636a67a.css.map",
+    "main.d16f3280.js.map": "/RavenousApp/static/js/main.d16f3280.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f636a67a.css",
+    "static/js/main.d16f3280.js"
+  ]
+}
